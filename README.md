@@ -1,6 +1,33 @@
 # amazon-sales-data-analysis
 End-to-end Data Analytics Project using SQL, Python, and Power BI
 
+## Dataset Information
+
+**Important Note:** This dataset is a synthetic (artificially generated) dataset created for data analytics, SQL, Python, and Power BI practice purposes.
+
+After examining the data structure, customer records, product distribution, pricing patterns, and geographic information, the dataset appears to be generated rather than collected from actual Amazon transactions.
+
+### Why This Dataset Is Considered Synthetic
+
+* Unrealistic geographic relationships between countries and states.
+* Nearly uniform distribution across categories and brands.
+* Limited product catalog compared to a real e-commerce platform.
+* Revenue and pricing patterns that appear algorithmically generated.
+
+### Project Purpose
+
+This project focuses on demonstrating:
+
+* Data Cleaning
+* SQL Analysis
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Dashboard Development
+* Business Insights Generation
+
+The objective is to showcase analytical skills and workflow rather than analyze real Amazon sales transactions.
+
+
 ## Project Overview
 
 This project analyzes Amazon sales data using:
