@@ -87,7 +87,7 @@ Created interactive dashboard with:
 
 # Dashboard Preview
 
-![Dashboard](dashboard_screenshots/dashboard.png)
+![image alt](https://github.com/pradnesh369/amazon-sales-data-analysis/blob/0deea35b7bb15a1236712f085421b803cbfa476b/Amazon%20Sales%20Overview%20Dashboard.png)
 
 ---
 
