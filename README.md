@@ -86,7 +86,7 @@ Created interactive dashboard with:
 ---
 
 # Dashboard Preview
-
+# Amazon Sales Overview Dashboard 
 ![image alt](https://github.com/pradnesh369/amazon-sales-data-analysis/blob/0deea35b7bb15a1236712f085421b803cbfa476b/Amazon%20Sales%20Overview%20Dashboard.png)
 
 ---
@@ -99,7 +99,24 @@ Created interactive dashboard with:
 - Revenue remains stable across most months
 
 ---
+Visuals include:
 
+-Monthly Revenue & Profit Trend
+- Top States By Quntity sold
+- Order Fulfilment Status
+- Payment Method Distribution
+- Product Sales Distribution Across States
+- Top Product by Profit
+
+
+# Brands Expense & Tax Breakdown
+![image alt](https://github.com/pradnesh369/amazon-sales-data-analysis/blob/1e057f97cff69420874fcc90d62cc680824360ee/Brands%20Expense%20%26%20Tax%20Breakdown.png)
+
+Visuals Include:
+- Top Shipping Cost By Product Category
+- Total Tax Distribution by Product Category
+- Total Unit Price by Product Category
+- Total Discount By Product Category
 # Author
 
 Pradnesh Kamble
